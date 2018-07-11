@@ -1,5 +1,10 @@
 ## List of vsCode extensions I use
 
+#### [keybindings.json](keybindings.json)
+
+used to focus on terminal if opened, but if not opened will open the terminal.
+If focused already it will close all by using `` Ctrl+` ``
+
 #### code --list-extensions | xargs -L 1 echo code --install-extension
 
 ```bash
@@ -39,6 +44,7 @@ code --install-extension sysoev.vscode-open-in-github
 code --install-extension techer.open-in-browser
 code --install-extension wix.vscode-import-cost
 code --install-extension xabikos.JavaScriptSnippets
+code --install-extension bierner.markdown-preview-github-styles
 ```
 
 - https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
@@ -77,3 +83,4 @@ code --install-extension xabikos.JavaScriptSnippets
 - https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
 - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+- https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
