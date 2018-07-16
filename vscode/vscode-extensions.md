@@ -13,6 +13,7 @@ code --install-extension Kasik96.format-indent
 code --install-extension alefragnani.project-manager
 code --install-extension arcticicestudio.nord-visual-studio-code
 code --install-extension asvetliakov.snapshot-tools
+code --install-extension bierner.markdown-preview-github-styles
 code --install-extension cmstead.jsrefactor
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
@@ -29,6 +30,7 @@ code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mechatroner.rainbow-csv
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension naumovs.color-highlight
+code --install-extension octref.vetur
 code --install-extension Orta.vscode-jest
 code --install-extension pflannery.vscode-versionlens
 code --install-extension PKief.material-icon-theme
@@ -42,9 +44,9 @@ code --install-extension sleistner.vscode-fileutils
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension sysoev.vscode-open-in-github
 code --install-extension techer.open-in-browser
+code --install-extension vthiery.prettify-selected-json
 code --install-extension wix.vscode-import-cost
 code --install-extension xabikos.JavaScriptSnippets
-code --install-extension bierner.markdown-preview-github-styles
 ```
 
 - https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
@@ -52,6 +54,7 @@ code --install-extension bierner.markdown-preview-github-styles
 - https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 - https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
 - https://marketplace.visualstudio.com/items?itemName=asvetliakov.snapshot-tools
+- https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
 - https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor
 - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
@@ -68,6 +71,7 @@ code --install-extension bierner.markdown-preview-github-styles
 - https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 - https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+- https://marketplace.visualstudio.com/items?itemName=octref.vetur
 - https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
 - https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
 - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
@@ -81,6 +85,6 @@ code --install-extension bierner.markdown-preview-github-styles
 - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - https://marketplace.visualstudio.com/items?itemName=sysoev.vscode-open-in-github
 - https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
+- https://marketplace.visualstudio.com/items?itemName=vthiery.prettify-selected-json
 - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
-- https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
